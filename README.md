@@ -29,3 +29,7 @@ onde tenha um vaso próprio para o arduino não ficando apenas anexado na protob
 </ol>
 
 <p>¹Um Esp3286 será mais adequado. ²De início vou usardesde uma garrafa ou lata como vaso.</p>
+
+### Sketch 1:
+
+![Primeiro Sketch](https://github.com/glermff/Arduino-Vaso-Inteligente/blob/main/Img/first-Sketch.jpg)
