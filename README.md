@@ -1,7 +1,8 @@
 <h1 align="center">Arduino Vaso Inteligente</h1>
 
-Inicialmente, este projeto é para entender na prática o funcionamendo do sensor de solo higrometro para a medição da umidade do solo e escalar para algo mais completo 
-onde tenha um vaso próprio para o arduino não ficando apenas anexado na protoboard e sim no vaso de planta.
+Inicialmente, este projeto é para entender na prática e explorar sobre o funcionamendo do sensor de solo higrometro para a medição da umidade do solo. 
+Tem também como objetivo escalar para um sistema IoT, onde o monitoramento da planta e a coleta dos dados possa ser analisada por meio de um
+app próprio e com uma estrutura própria.
 
 ---
 
@@ -23,13 +24,19 @@ onde tenha um vaso próprio para o arduino não ficando apenas anexado na protob
 
 ### Ideias e Upgrades:
 
-<ol >
+<ol>
   <li>Desenvolver app que possa conectar com o hardware¹ para passar informações da planta;</li>
-  <li>Desenhar um vaso² apropriado para melhor disposição dos fios e do hardware;</li>
+  <li>Desenhar uma estrutura apropriado para melhor disposição dos fios, da planta e do hardware;</li>
 </ol>
 
-<p>¹Um Esp3286 será mais adequado. ²De início vou usardesde uma garrafa ou lata como vaso.</p>
+<p>¹Um Esp3286 será mais adequado pela sua conexão via wi-fi ou bluetooth.</p>
 
-### Sketch:
+---
+
+## Sketch (Arduino-Uno):
 
 ![Sketch do Projeto](https://github.com/glermff/Arduino-Vaso-Inteligente/blob/main/Img/Sketch_vaso_iot.png)
+
+<p>
+  Sketch com arduino apresentando como a estrutura da parte de monitoramento. As informações sobre humidade e status da planta são passados para o display;
+</p>
