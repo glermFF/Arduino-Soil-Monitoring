@@ -1,3 +1,5 @@
+![Static Badge](https://img.shields.io/badge/Em%20Desenvolvimento-maker?style=for-the-badge&color=orange)
+
 <h1 align="center">Arduino | Monitoramento do Solo</h1>
 
 Inicialmente, este projeto é para entender na prática e explorar sobre o funcionamendo do sensor de solo higrometro para a medição da umidade do solo. 
