@@ -1,8 +1,8 @@
-<h1 align="center">Arduino Vaso Inteligente</h1>
+<h1 align="center">Arduino | Monitoramento do Solo</h1>
 
 Inicialmente, este projeto é para entender na prática e explorar sobre o funcionamendo do sensor de solo higrometro para a medição da umidade do solo. 
 Tem também como objetivo escalar para um sistema IoT, onde o monitoramento da planta e a coleta dos dados possa ser analisada por meio de um
-app próprio e com uma estrutura própria.
+app próprio e com um vaso para colocar a planta e encaixar o arduino e seus componentes.
 
 ---
 
@@ -35,8 +35,12 @@ app próprio e com uma estrutura própria.
 
 ## Sketch (Arduino-Uno):
 
-![Sketch do Projeto](https://github.com/glermff/Arduino-Vaso-Inteligente/blob/main/Img/Sketch_vaso_iot.png)
+<div align="center">
+  <img src="https://github.com/glermff/Arduino-Vaso-Inteligente/blob/main/Img/Sketch_vaso_iot.png" height="350" width="500">
+</div>
+
+<br>
 
 <p>
-  Sketch com arduino apresentando como a estrutura da parte de monitoramento. As informações sobre humidade e status da planta são passados para o display;
+  Sketch com arduino apresentando sua prototipagem. As informações sobre humidade e status da planta são passados para o display;
 </p>
